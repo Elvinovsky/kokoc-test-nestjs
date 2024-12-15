@@ -1,6 +1,6 @@
 Ответы:
 
-3.Команда [wiki](https://www.google.com)
+3.Команда [wiki](https://en.wikipedia.org/wiki/Command_pattern)
 
 4.
 Ошибка возникла при HTTP-запросе в модуле HttpRequestsService функция vitaminIdLoginWithAuthCode
